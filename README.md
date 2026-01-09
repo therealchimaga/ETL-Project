@@ -444,4 +444,4 @@ This project was developed as part of academic coursework at Clarkson University
 
 **Last Updated:** November 2024  
 **Course:** Database Management (IA626/IA637)  
-**Project Partner:** Lerato Pahla
+
